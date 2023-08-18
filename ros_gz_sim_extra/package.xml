@@ -3,8 +3,8 @@
 <package format="3">
   <name>ros_gz_sim_extra</name>
   <version>0.245.0</version>
-  <description>Tools for using Gazebo Sim simulation with ROS.</description>
-  <maintainer email="ahcorde@openrobotics.org">Alejandro Hernandez</maintainer>
+  <description>Extra tools for using Gazebo Sim simulation with ROS.</description>
+  <maintainer email="hijimasa@gmail.com">Masaaki Hijikata</maintainer>
 
   <license>Apache 2.0</license>
 
